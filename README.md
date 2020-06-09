@@ -15,4 +15,4 @@ This repository contains an implementation and further details of COT-GAN: Gener
 Python 3.5 and above and Tensorflow 2.x
 
 ## Data
-tfrecord files used in COT-GAN can be downloaded here: https://drive.google.com/drive/folders/1ja9OlAyObPTDIp8bNl8rDT1RgpEt0qO-?usp=sharing
+.tfrecord files used in COT-GAN experiments can be downloaded here: https://drive.google.com/drive/folders/1ja9OlAyObPTDIp8bNl8rDT1RgpEt0qO-?usp=sharing
